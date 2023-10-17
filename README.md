@@ -3,7 +3,7 @@
 <h2 align="center">Contact Info</h2>
 <div align="center">
   <a href="mailto:seanhung2000@gmail.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/seantjjd4?s=21&t=j_cgPVA87TViEgqUNqNCAQ">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=x&logoColor=white" />
